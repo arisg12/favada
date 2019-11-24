@@ -10,7 +10,11 @@
 </body>
 </html>
 
-<html>
-<body bgcolor=”red”>
-<center>
-</h1>
+h1 {
+  color: blue;
+  background-color: yellow;
+  border: 1px solid black;
+}
+p {
+  color: red;
+
