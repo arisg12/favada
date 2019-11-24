@@ -1,6 +1,5 @@
 <html>
 <head></head>
-<style>
 
 <ul>
 <p style= background:#93B874<li>#favada </li><span></p>
