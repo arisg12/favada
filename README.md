@@ -10,11 +10,15 @@
 </body>
 </html>
 
-h1 {
-  color: blue;
-  background-color: yellow;
-  border: 1px solid black;
-}
-p {
-  color: red;
-
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Upgrade formación - Ejemplo</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Mi curso de nivelación de CSS</h1>
+    <p>Este es mi primer ejemplo de CSS. Estoy preparado.</p>
+  </body>
+</html>
