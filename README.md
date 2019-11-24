@@ -10,3 +10,23 @@
 </body>
 </html>
 
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    background-color: #93B874;
+}
+h1 {
+    background-color: #00b33c;
+}
+p {
+    background-color: #FFFFFF);
+}
+</style>
+</head>
+<body>
+<h1>Encabezado con fondo verde</h1>
+<p>Párrafo con fondo blanco</p>
+</body>
+</html>
